@@ -1,4 +1,5 @@
 - Webhooks offer lightweight data sharing.
+- APIs requires constant polling whereas webhooks does not.
 - Webhooks are unidirectional (no request is made by the client, data is sent in one direction directly without any request)
 - In webhooks, data is sent in real time to the client based on some events.
 - They are easier to set up and less resource-intensive than APIs.
