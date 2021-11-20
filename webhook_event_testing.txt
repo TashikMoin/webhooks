@@ -1,0 +1,3 @@
+- Modify this file
+- Add a commit, and push changes to this repo to trigger a push event so that the github webhooks will send data to the given paylaod url (receiver's url).
+- See the data received at webhook.site in the form of a post request to the given unique payload url which was also used as payload url for this repo (repo>settings>webhooks).
