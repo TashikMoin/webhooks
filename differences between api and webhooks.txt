@@ -1,0 +1,7 @@
+- Webhooks offer lightweight data sharing.
+- Webhooks are unidirectional (no request is made by the client, data is sent in one direction directly without any request)
+- In webhooks, data is sent in real time to the client based on some events.
+- They are easier to set up and less resource-intensive than APIs.
+- Unlike APIs, webhooks do not allow the sending system to add, update and delete data on the receiving end, which is why webhooks alone are too limited to offer full integration between two applications.
+- Examples,
+	Automatically updating accounting software when invoices are paid, or setting up any type of notifications.
